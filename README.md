@@ -43,11 +43,3 @@ I'm a backend developer with a passion for building scalable and efficient solut
 ## 🌱 What I'm Learning
 
 I'm continuously improving my skills in **backend architecture**, **performance optimization**, and **cloud infrastructure**. Recently, I’ve been exploring:
-
-- Advanced **Nest.js** patterns and architecture.
-- Microservices and distributed systems.
-
-## 📫 How to Reach Me
-
-- GitHub: [Profile](https://github.com/DefPavel)
-- Social: [Profile](https://t.me/Vergel_23)
